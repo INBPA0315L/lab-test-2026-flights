@@ -1,0 +1,217 @@
+[
+  {
+    "code": "FRA",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "runways": 4,
+    "flights": [
+      {
+        "number": "LH123",
+        "destination": "New York",
+        "duration": 480
+      },
+      {
+        "number": "LH456",
+        "destination": "Tokyo",
+        "duration": 660
+      },
+      {
+        "number": "LH789",
+        "destination": "Paris",
+        "duration": 90
+      }
+    ]
+  },
+  {
+    "code": "BCN",
+    "city": "Barcelona",
+    "country": "Spain",
+    "runways": 3,
+    "flights": [
+      {
+        "number": "IB101",
+        "destination": "Berlin",
+        "duration": 150
+      },
+      {
+        "number": "IB102",
+        "destination": "London",
+        "duration": 120
+      },
+      {
+        "number": "IB103",
+        "destination": "Rome",
+        "duration": 135
+      }
+    ]
+  },
+  {
+    "code": "ZRH",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "runways": 2,
+    "flights": [
+      {
+        "number": "SW201",
+        "destination": "Madrid",
+        "duration": 140
+      },
+      {
+        "number": "SW202",
+        "destination": "Vienna",
+        "duration": 100
+      }
+    ]
+  },
+  {
+    "code": "CDG",
+    "city": "Paris",
+    "country": "France",
+    "runways": 4,
+    "flights": [
+      {
+        "number": "AF301",
+        "destination": "Dubai",
+        "duration": 420
+      },
+      {
+        "number": "AF302",
+        "destination": "Munich",
+        "duration": 90
+      },
+      {
+        "number": "AF303",
+        "destination": "Los Angeles",
+        "duration": 720
+      },
+      {
+        "number": "AF304",
+        "destination": "Beijing",
+        "duration": 600
+      }
+    ]
+  },
+  {
+    "code": "TXL",
+    "city": "Berlin",
+    "country": "Germany",
+    "runways": 2,
+    "flights": [
+      {
+        "number": "LH201",
+        "destination": "Madrid",
+        "duration": 160
+      },
+      {
+        "number": "LH202",
+        "destination": "London",
+        "duration": 120
+      }
+    ]
+  },
+  {
+    "code": "MAD",
+    "city": "Madrid",
+    "country": "Spain",
+    "runways": 4,
+    "flights": [
+      {
+        "number": "IB401",
+        "destination": "Frankfurt",
+        "duration": 150
+      },
+      {
+        "number": "IB402",
+        "destination": "Zurich",
+        "duration": 140
+      },
+      {
+        "number": "IB403",
+        "destination": "Rome",
+        "duration": 135
+      }
+    ]
+  },
+  {
+    "code": "GVA",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "runways": 2,
+    "flights": [
+      {
+        "number": "SW301",
+        "destination": "Brussels",
+        "duration": 90
+      },
+      {
+        "number": "SW302",
+        "destination": "Paris",
+        "duration": 80
+      },
+      {
+        "number": "SW303",
+        "destination": "Amsterdam",
+        "duration": 100
+      }
+    ]
+  },
+  {
+    "code": "LYS",
+    "city": "Lyon",
+    "country": "France",
+    "runways": 3,
+    "flights": [
+      {
+        "number": "AF501",
+        "destination": "Barcelona",
+        "duration": 90
+      },
+      {
+        "number": "AF502",
+        "destination": "London",
+        "duration": 120
+      }
+    ]
+  },
+  {
+    "code": "HAM",
+    "city": "Hamburg",
+    "country": "Germany",
+    "runways": 2,
+    "flights": [
+      {
+        "number": "LH301",
+        "destination": "Geneva",
+        "duration": 90
+      },
+      {
+        "number": "LH302",
+        "destination": "Vienna",
+        "duration": 100
+      },
+      {
+        "number": "LH303",
+        "destination": "Brussels",
+        "duration": 80
+      }
+    ]
+  },
+  {
+    "code": "NCE",
+    "city": "Nice",
+    "country": "France",
+    "runways": 2,
+    "flights": [
+      {
+        "number": "AF601",
+        "destination": "Zurich",
+        "duration": 120
+      },
+      {
+        "number": "AF602",
+        "destination": "Berlin",
+        "duration": 150
+      }
+    ]
+  }
+]
